@@ -1,4 +1,14 @@
-# reading-notes
+# ***reading-notes***
+### Here I can keep track of my observations and questions from the reading assignments throughout my course. :smiley:
+<br>
+<br>
+
+##  **401 - Advanced Python Development**  .
+<br>
+<br>
+
+
+
 
 | title         |                      link |
 | :------------ | ------------------------: |
