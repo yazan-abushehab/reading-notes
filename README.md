@@ -18,8 +18,8 @@
 
 <br>
 
-| title         |                              link |
-| :------------ | --------------------------------: |
-| SQL           | [SQL LINK](./Prep%20Task/Sql.md)  |
-|               |                                   |
-|               |                                   |
+| title         |                                  link |
+| :------------ | ------------------------------------: |
+| SQL           | [SQL LINK](./Prep%20Task/Sql.md)      |
+| Terminal      | [TRE LINK](./Prep%20Task/tirmenal.md) |
+|               |                                       |
