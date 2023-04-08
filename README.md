@@ -24,6 +24,6 @@
 | Terminal        | [TRE LINK](./Prep%20Task/tirmenal.md)                           |
 | Growth          | [Growth LINK](./Prep%20Task/Growth%20Mindset.md)                |
 | Data Structures | [DS$ALG](./Prep%20Task/Data%20Structures%20and%20Algorithms.md) |
-|                 |                                                                 |
+| Eng-Reading     | [Eng-Reading](./Prep%20Task/Eng-Reading.md)                     |
 |                 |                                                                 |
 |                 |                                                                 |
