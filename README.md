@@ -18,8 +18,12 @@
 
 <br>
 
-| Prep Task     |                                             link |
-| :------------ | -----------------------------------------------: |
-| SQL           | [SQL LINK](./Prep%20Task/Sql.md)                 |
-| Terminal      | [TRE LINK](./Prep%20Task/tirmenal.md)            |
-| Growth        | [Growth LINK](./Prep%20Task/Growth%20Mindset.md) |
+| Prep Task       |                                                            link |
+| :-------------- | --------------------------------------------------------------: |
+| SQL             | [SQL LINK](./Prep%20Task/Sql.md)                                |
+| Terminal        | [TRE LINK](./Prep%20Task/tirmenal.md)                           |
+| Growth          | [Growth LINK](./Prep%20Task/Growth%20Mindset.md)                |
+| Data Structures | [DS$ALG](./Prep%20Task/Data%20Structures%20and%20Algorithms.md) |
+|                 |                                                                 |
+|                 |                                                                 |
+|                 |                                                                 |
