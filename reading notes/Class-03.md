@@ -21,7 +21,7 @@ The exception error is a type of error occurs whenever syntactically correct Pyt
 ## Explain the difference between the ‘read()’ and ‘readline()’ methods for file objects in Python. Provide examples of when to use each method?
 >- read(): This method reads the entire contents of a file and returns it as a string. If no argument is specified, it reads the entire file. If an integer argument n is given, it reads n characters from the file. When you call read() again, it will start from where it left off the previous time.
 
->-readline(): This method reads a single line from the file and returns it as a string. If you call it again, it reads the next line. When it reaches the end of the file, it returns an empty string.
+>- readline(): This method reads a single line from the file and returns it as a string. If you call it again, it reads the next line. When it reaches the end of the file, it returns an empty string.
 
 ### Here are some examples of when to use each method:
 >- read(): If you need to read the entire contents of a small file into memory, you can use read(). For example:
