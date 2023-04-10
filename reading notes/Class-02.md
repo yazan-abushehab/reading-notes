@@ -28,3 +28,9 @@
 ### Packages are a collection of related modules that aim to achieve a common goal.
 ### To import all objects (functions, variables, classes, etc.) from a module, we can use the import * statement. For example, to import all objects contained in the hello module, we can use the following statement:
 ## from hello import *
+
+<br>
+<br>
+
+## Things I want to know more about :
+Nothing for now .
