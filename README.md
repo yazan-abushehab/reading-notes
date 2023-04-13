@@ -10,14 +10,14 @@
 
 
 
-| Reading notes         |                                      link |
-| :------------         | ----------------------------------------: |
-| Class-01              | [link-01](./reading%20notes/Class-01.md)  |
-| Class-02              | [link-02](./reading%20notes/Class-02.md)  |
-| Class-03              | [link-03](./reading%20notes/Class-03.md)  |
-| Class-04              | [link-04](./reading%20notes/Class-04.md)  |
-|                       |                                           |
-|                       |                                           |
+| Reading notes         |                                            link |
+| :------------         | ----------------------------------------------: |
+| Class-01              | [link-01](./reading%20notes/Class-01.md)        |
+| Class-02              | [link-02](./reading%20notes/Class-02.md)        |
+| Class-03              | [link-03](./reading%20notes/Class-03.md)        |
+| Class-04              | [link-04](./reading%20notes/Class-04.md)        |
+| Linked Lists          | [link-04](./reading%20notes/Linked%20Lists.md)  |
+|                       |                                                 |
 
 
 
