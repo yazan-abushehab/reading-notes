@@ -18,8 +18,8 @@
 | Class-04              | [link-04](./reading%20notes/Class-04.md)        |
 | Linked Lists          | [link-04](./reading%20notes/Linked%20Lists.md)  |
 | Class-06              | [link-06](./reading%20notes/Class-06.md)        |
-| Class0-7              | [link-07](./reading%20notes/Class-07.md)        |
-|                       |                                                 |
+| Class-07              | [link-07](./reading%20notes/Class-07.md)        |
+| Class-08              | [link-08](./reading%20notes/Class-08.md)        |
 |                       |                                                 |
 |                       |                                                 |
 |                       |                                                 |
