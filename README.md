@@ -20,7 +20,7 @@
 | Class-06              | [link-06](./reading%20notes/Class-06.md)        |
 | Class-07              | [link-07](./reading%20notes/Class-07.md)        |
 | Class-08              | [link-08](./reading%20notes/Class-08.md)        |
-|                       |                                                 |
+| Class-09              | [link-09](./reading%20notes/Class-09.md)        |
 |                       |                                                 |
 |                       |                                                 |
 
