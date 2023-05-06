@@ -21,7 +21,7 @@
 | Class-07              | [link-07](./reading%20notes/Class-07.md)        |
 | Class-08              | [link-08](./reading%20notes/Class-08.md)        |
 | Class-09              | [link-09](./reading%20notes/Class-09.md)        |
-|                       |                                                 |
+| Class-11              | [link-11](./reading%20notes/Class-11.md)        |
 |                       |                                                 |
 
 
