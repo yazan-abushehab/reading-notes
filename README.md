@@ -24,6 +24,7 @@
 | Class-11              | [link-11](./reading%20notes/Class-11.md)        |
 | Class-12              | [link-12](./reading%20notes/Class-12.md)        |
 | Class-13              | [link-13](./reading%20notes/Class-13.md)        |
+| Class-14              | [link-14](./reading%20notes/Class-14.md)        |
 |                       |                                                 |
 
 
