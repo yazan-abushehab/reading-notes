@@ -29,6 +29,7 @@
 | Class-16              | [link-16](./reading%20notes/Class-16.md)        |
 | Class-17              | [link-17](./reading%20notes/Class-17.md)        |
 | Class-18              | [link-18](./reading%20notes/Class-18.md)        |
+| Class-19              | [link-19](./reading%20notes/Class-19.md)        |
 |                       |                                                 |
 
 
