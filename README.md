@@ -30,7 +30,8 @@
 | Class-17              | [link-17](./reading%20notes/Class-17.md)        |
 | Class-18              | [link-18](./reading%20notes/Class-18.md)        |
 | Class-19              | [link-19](./reading%20notes/Class-19.md)        |
-| Class-20              | [link-20](./reading%20notes/Class-20.md)        |
+| Class-26              | [link-26](./reading%20notes/Class-26.md)        |
+| Class-27              | [link-27](./reading%20notes/Class-27.md)        |
 |                       |                                                 |
 
 
