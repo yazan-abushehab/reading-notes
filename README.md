@@ -32,6 +32,7 @@
 | Class-19              | [link-19](./reading%20notes/Class-19.md)        |
 | Class-26              | [link-26](./reading%20notes/Class-26.md)        |
 | Class-27              | [link-27](./reading%20notes/Class-27.md)        |
+| Class-28              | [link-28](./reading%20notes/Class-28.md)        |
 |                       |                                                 |
 
 
