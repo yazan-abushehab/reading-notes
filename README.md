@@ -36,6 +36,7 @@
 | Class-29              | [link-29](./reading%20notes/Class-29.md)        |
 | Class-30              | [link-30](./reading%20notes/Class-30.md)        |
 | Class-31              | [link-31](./reading%20notes/Class-31.md)        |
+| Class-32              | [link-32](./reading%20notes/Class-32.md)        |
 |                       |                                                 |
 
 
